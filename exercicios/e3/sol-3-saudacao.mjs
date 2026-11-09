@@ -1,3 +1,3 @@
 export function saudar(nome = "mundo") {
-  return `Olá, ${nome}!`;
+  return `Oi, ${nome}!`;
 }
